@@ -5,3 +5,26 @@ body {
 img {
   size: 40%;
 }
+
+.form {
+  margin-top: 100px;
+  display: grid;
+  grid-gap: 50px 2px;
+  justify-content: center;
+  align-content: center;
+
+}
+
+.form textarea {
+  height: 130%;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+button {
+
+  height: 50px;
+  width: 100%;
+}
